@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Productcard({product}) {
     return <div>
@@ -17,8 +18,8 @@ function Productcard({product}) {
                 </h2>
                 <p className='line-clamp-2'>{product.description}...</p>
                 <div className="card-actions justify-end">
-                    <div className="badge badge-outline">Fashion</div>
-                    <div className="badge badge-outline">Products</div>
+                    <Link to={`/product/${product.id}`} className="badge badge-outline cursor-pointer">View Details</Link>
+                    
                 </div>
             </div>
         </div>
