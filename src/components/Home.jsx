@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-scroll'
 
 function Home() {
     return <div className='h-[90vh]  '>
@@ -14,9 +15,12 @@ function Home() {
                 <p className="text-gray-600 text-base">
                     Discover our homemade wellness range made with natural ingredients. Skin-safe, eco-friendly, and made with love.
                 </p>
-                <button className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-5 py-2.5 rounded-lg transition duration-300">
+                <Link to='products' smooth={true} duration={500}>
+                    <button className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-5 py-2.5 rounded-lg transition duration-300">
                     Explore Now
-                </button>
+                    </button>
+                </Link>
+                
             </div>
 
             {/* Image Section */}

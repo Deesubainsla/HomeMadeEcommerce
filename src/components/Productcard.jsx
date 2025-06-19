@@ -8,7 +8,7 @@ function Productcard({product}) {
             <figure>
                 <img
                     className='object-fit-contain w-[200px] h-[200px]'
-                    src={product.img}
+                    src={product.img[0]}
                     alt="Shoes" />
             </figure>
             <div className="card-body">

@@ -16,9 +16,9 @@ function App() {
   return (
     <BrowserRouter>
 
-      <div className='min-h-screen w-screen'>
+      <div className='min-h-screen max-w-screen'>
         {/* navbar */}
-        <div className='fixed top-0 w-full z-1 shadow-sm'><Navbar /></div>
+        <div className='sticky top-0 w-full z-1 shadow-sm'><Navbar /></div>
         {/* navbar */}
 
 
@@ -30,6 +30,7 @@ function App() {
               <section id='home' ><Home /></section>
               <section id='products'><Products /></section>
               <section id='contact'><Contact /></section>
+              
               </> 
             }
           />

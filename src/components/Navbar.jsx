@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll'
-import { useLocation, Link as routerlink } from 'react-router-dom'
+import { useLocation, Link as Routerlink } from 'react-router-dom'
 
 function Navbar() {
     const { pathname } = useLocation();
@@ -30,12 +30,18 @@ function Navbar() {
                                     </li>
                                 </>) :
                                 (
-                                    <routerlink to='/'>Back to Home</routerlink>
+                                    <Routerlink to='/'>Back to Home</Routerlink>
                                 )
                         }
                     </ul>
                 </div>
-                <a className="btn btn-ghost font-bold text-xl">HomeMade</a>
+
+                {isHome?(
+                    <Link to='home' smooth={true} duration={500} className="btn btn-ghost font-bold text-xl">HomeMade</Link>
+                ):(
+                    <Routerlink to='/' className="btn btn-ghost font-bold text-xl">HomeMade</Routerlink>
+                )}
+
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -53,15 +59,13 @@ function Navbar() {
                                 </li>
                             </>) :
                             (
-                                <routerlink to='/'>Back to Home</routerlink>
+                                <Routerlink to='/'>Back to Home</Routerlink>
                             )
                     }
 
                 </ul>
             </div>
-            <div className="navbar-end">
-                <a className="btn">Button</a>
-            </div>
+
         </div>
     </div>
 }
