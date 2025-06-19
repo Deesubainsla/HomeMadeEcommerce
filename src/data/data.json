@@ -1,26 +1,26 @@
 [
     {
-        "img":"./public/images/demoproduct.webp",
+        "img":"/images/demoproduct.webp",
         "title": "Floppy Bag",
         "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
     },
     {
-        "img":"./public/images/demoproduct.webp",
+        "img":"/images/demoproduct.webp",
         "title": "Floppy Bag",
         "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
     },
     {
-        "img":"./public/images/demoproduct.webp",
+        "img":"/images/demoproduct.webp",
         "title": "Floppy Bag",
         "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
     },
     {
-        "img":"./public/images/demoproduct.webp",
+        "img":"/images/demoproduct.webp",
         "title": "Floppy Bag",
         "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
     },
     {
-        "img":"./public/images/demoproduct.webp",
+        "img":"/images/demoproduct.webp",
         "title": "Floppy Bag",
         "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
     }

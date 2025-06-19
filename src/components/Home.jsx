@@ -22,7 +22,7 @@ function Home() {
             {/* Image Section */}
             <div className="md:w-1/2 w-full h-[350px] md:h-full mb-6 md:mb-0">
                 <img
-                    src="../../public/homemadeicon.avif"
+                    src="/homemadeicon.avif"
                     alt="Homemade Product Showcase"
                     className="w-full h-full object-contain rounded-lg"
                 />
