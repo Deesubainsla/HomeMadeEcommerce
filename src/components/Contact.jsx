@@ -9,7 +9,9 @@ function Contact() {
                 <h2 className="text-4xl font-bold text-gray-800 mb-2">Contact</h2>
                 <div className="w-24 h-1 mx-auto bg-violet-600 mb-4 rounded-full"></div>
                 <p className="text-gray-600">
-                    Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit
+                    Have a question, custom request, or just want to say hello? We’d love to hear from you!
+                    Whether you're curious about our handmade products or need support with an order, feel free
+                    to reach out — we’re here to help and connect.
                 </p>
             </div>
 
@@ -24,7 +26,7 @@ function Contact() {
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Our Address</h3>
                     <p className="text-gray-600">
-                        2847 Rainbow Road,<br />Springfield, IL 62701, USA
+                        Sec-3, Ballabhgarh,<br />Haryana, India
                     </p>
                 </div>
 
@@ -36,8 +38,8 @@ function Contact() {
                         </div>
                     </div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Contact Number</h3>
-                    <p className="text-gray-600">Mobile: +1 (555) 123-4567</p>
-                    <p className="text-gray-600">Email: info@example.com</p>
+                    <p className="text-gray-600">Mobile: 7678113074</p>
+                    <p className="text-gray-600">Email: No Professional Email yet</p>
                 </div>
 
                 {/* Opening Hours */}

@@ -36,9 +36,11 @@ function Productdetails() {
         </div>
         {/* image slider */}
 
-
+        <span className='text-xl font-bold border border-gray-100 shadow-lg rounded p-2'>Rs.{product.price}</span>
         <p className="text-gray-600 w-[80%] mx-auto my-8">
-            {product.description}
+            {product.description.split('\n').map((para, index)=>(
+                <span key={index}>{para}<br/></span>
+            ))}
         </p>
 
     </div>

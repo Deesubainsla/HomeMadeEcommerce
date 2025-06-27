@@ -1,32 +1,86 @@
 [
     {
         "id":1,
-        "img":["/images/demoproduct.webp","/images/demoproduct.webp","/images/demoproduct.webp"],
-        "title": "Floppy Bag",
-        "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
+        "price":250,
+        "img":["/images/sidebag/sidebagfullpic.jpg","/images/sidebag/sidebagopenpic.jpg"],
+        "title": "Side Bag",
+        "description": "🌿 Elegant Handcrafted Eco-Friendly Sling Bag\n\nIntroducing our beautifully handwoven eco-friendly sling bag — the perfect blend of sustainability, style, and craftsmanship. Designed for minimalists and conscious consumers, this natural-toned accessory brings rustic charm and functionality together. Featuring a secure wooden button closure and soft, breathable material, it’s an ideal companion for carrying your essentials with grace and care.\n\n✅ Profits & Benefits\n• Handmade with Love: Each piece is carefully crocheted by skilled artisans using natural fibers.\n• Eco-Conscious Materials: 100% biodegradable and free from synthetic dyes or plastics.\n• Compact & Lightweight: Perfect for carrying a phone, cash, cards, or small daily items hands-free.\n• Durable & Washable: Built to last with reinforced stitching; easy to clean and maintain.\n• Stylish & Versatile: Neutral design pairs well with casual and boho-chic outfits.\n\n💚 Why Choose This Bag?\nBecause it’s more than just a bag — it’s a statement of sustainable living. By purchasing this handcrafted item, you’re directly supporting eco-friendly practices and artisan communities. Choose thoughtful fashion that aligns with your values and adds meaning to your every step."
     },
     {
         "id":2,
-        "img":["/images/demoproduct.webp"],
-        "title": "Floppy Bag",
-        "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
+        "price":250,
+        "img":["/images/handbag/handbagfullpic.jpg"],
+        "title": "Hand Bag",
+        "description": "👜 Stylish Handcrafted Brown Handbag with Floral Accents\n\nExperience the charm of artisan craftsmanship with our handcrafted brown handbag — a perfect mix of elegance, tradition, and utility. Designed with velvety yarn and adorned with two delicate white floral patterns, this soft-textured handbag is a fashionable yet functional companion for your everyday style.\n\n✅ Profits & Benefits\n• Unique Handwoven Design: Each handbag is individually crocheted, making every piece one-of-a-kind.\n• Premium Texture: Crafted with soft, plush yarn for a luxurious feel and eye-catching appearance.\n• Comfortable to Carry: Lightweight with sturdy handles for easy, everyday use.\n• Elegant Detailing: The white floral motifs add a delicate aesthetic touch, making it perfect for casual or festive occasions.\n• Eco-Friendly Craft: Made with minimal-impact materials and traditional methods that support sustainable practices.\n\n💚 Why Choose This Bag?\nBecause fashion can be ethical, beautiful, and personal. This handcrafted handbag is not just an accessory — it's a reflection of conscious living and cultural artistry. Carry it to showcase your love for handmade goods and support for eco-conscious craftsmanship."
     },
     {
         "id":3,
-        "img":["/images/demoproduct.webp"],
-        "title": "Floppy Bag",
-        "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
+        "price":250,
+        "img":["/images/bottlecover/waterbottlecoverfront.jpg","/images/bottlecover/waterbottlecoverunzoom.jpg","/images/bottlecover/morezoom.jpg"],
+        "title": "Water Bottle Cover",
+        "description": "💧 Handcrafted Eco-Friendly Water Bottle Cover\n\nCarry your hydration in style with our beautifully crocheted water bottle cover. Featuring an airy and flexible design with alternating mint green and natural beige stripes, this cover is both charming and practical. Made entirely from sustainable yarn, it protects your bottle, keeps it cool, and adds a touch of personality to your daily essentials.\n\n✅ Profits & Benefits\n• Lightweight & Breathable: Perfect open-weave design keeps your bottle well-ventilated.\n• Eco-Conscious Materials: Made from natural, biodegradable cotton yarn.\n• Stretchable Fit: Comfortably fits most standard-sized water bottles.\n• Stylish Utility: Adds an elegant, handmade touch to a basic item.\n• Washable & Reusable: Easy to clean and reuse — perfect for daily use or travel.\n\n💚 Why Choose This Product?\nBecause even the small things can reflect your values. This handcrafted water bottle cover is a statement of conscious living — functional, fashionable, and eco-friendly. Choose handmade, reduce plastic waste, and support local artisans with every sip!"
     },
     {
         "id":4,
-        "img":["/images/demoproduct.webp"],
-        "title": "Floppy Bag",
-        "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
+        "price":499,
+        "img":["/images/reshamrassiHB/reshamrassihbfront.jpg","/images/reshamrassiHB/zoom.jpg","/images/reshamrassiHB/morezoom.jpg"],
+        "title": "Resham Rassi Handbag",
+        "description":"✨ Elegant Handcrafted Resham Rassi Shoulder Bag\n\nMake a bold yet earthy statement with our intricately handcrafted shoulder bag made from durable resham rassi (silky cord). With its beautiful open-knit texture and radiant bronze-gold tone, this sling bag is lightweight, sturdy, and stylish — perfect for casual daywear or festive evenings.\n\n✅ Profits & Benefits\n• Durable & Long-Lasting: Made with strong, high-quality resham cord for extended use.\n• Elegant Finish: Subtle shine and texture give it a luxurious yet handmade feel.\n• Spacious & Stretchable: Open-weave design expands easily to hold your everyday essentials.\n• Comfortable Wear: Soft, thick strap for shoulder comfort on long outings.\n• Ethically Made: Crafted by local artisans using sustainable methods.\n\n💚 Why Choose This Bag?\nBecause timeless style can come from mindful choices. This handcrafted piece adds both function and fashion to your wardrobe while supporting sustainable living and artisan craftsmanship. Own a bag that’s as conscious as it is beautiful."
     },
     {
         "id":5,
-        "img":["/images/demoproduct.webp"],
-        "title": "Floppy Bag",
-        "description": "A card component has a figure, a body part, and inside body there are title and actions parts"
+        "price":499,
+        "img":["/images/purereshamhb/purereshamfront.jpg","/images/purereshamhb/oneside.jpg","/images/purereshamhb/secondside.jpg"],
+        "title": "Pure Resham Handbag",
+        "description": "🌟 Premium Handcrafted Pure Resham Handbag\n\nElevate your accessory game with our premium handcrafted handbag made entirely from pure resham (silk cord). With its intricate crochet pattern, elegant shimmer, and natural beige tone, this bag offers both durability and class — making it a perfect companion for everyday wear or special occasions.\n\n✅ Profits & Benefits\n• 100% Pure Resham: Luxurious silky cord gives the bag a natural shine and soft texture.\n• Handmade Detailing: Crafted with precision by skilled artisans for a truly unique touch.\n• Secure & Stylish: Features a practical wooden button closure and drawstring weave for added security.\n• Comfortable Strap: Braided handle ensures a strong grip and effortless shoulder comfort.\n• Sustainable Fashion: Ethically made with eco-conscious materials and zero plastic use.\n\n💚 Why Choose This Bag?\nBecause luxury doesn't have to come at the cost of the planet. This pure resham handbag is a conscious choice that blends tradition, sustainability, and timeless style. Carry your values with grace and make a difference with every outing."
+    },
+    {
+        "id":6,
+        "price":499,
+        "img":["/images/crochetmade/crochetmadefront.jpg","/images/crochetmade/zoomout.jpg","/images/crochetmade/zoom.jpg"],
+        "title": "Crochet Made Handbag",
+        "description": "🧵 Handcrafted Everyday Crochet Tote Bag\n\nSimple, elegant, and handmade with love — this crochet tote bag is your perfect daily companion. Featuring a spacious design with neat horizontal stitching patterns, it blends minimalist style with functional capacity. Made from natural, eco-friendly yarn, this off-white beauty is both lightweight and durable.\n\n✅ Profits & Benefits\n• Spacious Design: Ideal for carrying books, groceries, or daily essentials with ease.\n• Sturdy Craftsmanship: Reinforced base and tight stitching for long-lasting use.\n• Lightweight & Comfortable: Soft strap sits easily on the shoulder for all-day wear.\n• Natural Materials: Made from biodegradable, breathable cotton yarn.\n• Chic Minimalism: Neutral tones and clean texture pair well with any outfit or occasion.\n\n💚 Why Choose This Bag?\nBecause sustainability should be stylish and practical. This handcrafted tote is a modern essential for conscious consumers — functional for errands, elegant for outings, and meaningful in impact. Own the charm of slow fashion while supporting skilled artisans."
+    },
+    {
+        "id":7,
+        "price":499,
+        "img":["/images/zippercrochet/zippercrochetfront.jpg","/images/zippercrochet/zoomout.jpg","/images/zippercrochet/zoom.jpg"],
+        "title": "Zipper Crochet Made Handbag",
+        "description": "🧶 Secure & Stylish Crochet Handbag with Zipper\n\nMeet the perfect blend of handmade elegance and practical design — our zippered crochet handbag. Crafted with a beautifully textured open-knit pattern and secured with a sturdy zipper, this bag ensures your essentials stay safe while you carry them in style. Its natural off-white tone and subtle finish make it ideal for daily use or casual outings.\n\n✅ Profits & Benefits\n• Secure Zipper Closure: Keeps your belongings safe and gives peace of mind during travel.\n• Artisan Crochet Work: Each bag is hand-stitched with care, offering a unique and detailed texture.\n• Lined Interior: Soft inner lining adds extra protection and durability.\n• Comfortable Strap: Handcrafted shoulder strap for easy and lightweight carrying.\n• Eco-Conscious Material: Made with sustainable cotton yarn, free of plastic and synthetic dyes.\n\n💚 Why Choose This Bag?\nBecause it’s more than just a handbag — it’s a handcrafted solution for sustainable living. With functionality, fashion, and ethics all in one, this zippered crochet piece supports traditional artistry while matching your modern lifestyle."
+    },
+    {
+        "id":8,
+        "price":699,
+        "img":["/images/macaroniyarn/macaroniyarnfront.jpg","/images/macaroniyarn/zoomout.jpg","/images/macaroniyarn/zoom.jpg"],
+        "title": "Macaroni Yarn Handbag",
+        "description": "👜 Bold & Beautiful Macaroni Yarn Handbag\n\nDiscover the perfect fusion of strength and style with our handcrafted handbag made from premium macaroni yarn. Featuring thick, glossy threads and tight crochet work, this bag is built to turn heads and carry weight — literally. With its rich texture and elegant matte-sheen finish, it’s a fashion-forward yet functional piece for modern, eco-conscious users.\n\n✅ Profits & Benefits\n• High-Quality Macaroni Yarn: Known for its durability, shine, and softness.\n• Strong & Spacious: Designed to hold heavier items without losing shape.\n• Unique Textured Finish: Bold crochet stitching adds a luxurious feel and sturdy grip.\n• Comfortable on the Shoulder: Thick strap for better support and comfort.\n• Sustainable & Stylish: Made with eco-friendly yarn that supports slow fashion and artisan craft.\n\n💚 Why Choose This Bag?\nBecause you deserve something as strong and stylish as you are. This macaroni yarn handbag is a step toward sustainable fashion without compromising on aesthetics or functionality. A powerful accessory made with care, designed to last."
+    },
+    {
+        "id":9,
+        "price":179,
+        "img":["/images/coaster/coasterfront.jpg","/images/coaster/zoomout.jpg"],
+        "title": "Handmade Coaster",
+        "description": "☕ Handwoven Dual-Tone Macramé Coaster\n\nAdd a touch of artisanal charm to your table with our handcrafted macramé coaster. Featuring rich brown and cream tones wrapped in intricate spiral knots, this piece is both practical and decorative. Its soft fringes and boho texture make it perfect for any setting — from rustic kitchen tables to modern office desks.\n\n✅ Profits & Benefits\n• Handmade Elegance: Each piece is hand-knotted using traditional macramé techniques.\n• Premium Cotton Threads: Crafted from natural, eco-friendly yarn that’s soft and absorbent.\n• Protects Surfaces: Keeps your tables safe from heat, moisture, and scratches.\n• Stylish Aesthetic: Fringe edges and contrast colors add a boho-chic vibe to your decor.\n• Multi-Functional: Works as a coaster, decor piece, or a small underlay for candles and mugs.\n\n💚 Why Choose This Coaster?\nBecause every detail in your space matters. This macramé coaster is a small yet thoughtful addition that reflects your love for handmade artistry, sustainable living, and timeless design. Add it to your home or gift it to someone special — it’s beauty with purpose."
+    },
+    {
+        "id":10,
+        "price":139,
+        "img":["/images/keyring/crochetkeyringfront.jpg","/images/keyring/zoomout.jpg"],
+        "title": "Crochet Keyring",
+        "description": "🔑 Cute & Cozy Crochet Keyring Bag Charm\n\nAdd a touch of handmade happiness to your keys or bag with this adorable mini crochet keyring. Shaped like a tiny handbag and made with soft, aqua-toned cotton yarn, it’s the perfect blend of function and flair. Whether clipped to your purse, backpack, or keys, this little charm is sure to grab attention and spark joy.\n\n✅ Profits & Benefits\n• Handcrafted with Love: Each piece is uniquely crocheted by skilled artisans.\n• Soft & Lightweight: Made from eco-friendly cotton yarn that’s gentle yet durable.\n• Multipurpose Use: Works as a keyring, zipper pull, or miniature decorative accessory.\n• Fun & Functional: Makes finding keys easy while adding personality to your everyday carry.\n• Great Gift Idea: Perfect for birthdays, party favors, or handmade gift bundles.\n\n💚 Why Choose This Keyring?\nBecause small details make a big difference. This crochet keyring is a simple way to support sustainable crafts and celebrate handmade creativity. Carry it with pride or gift it with love — it’s the tiny treasure that brings a smile every day."
+    },
+    {
+        "id":11,
+        "price":499,
+        "img":["/images/wallhanging/wallhangingfront.jpg","/images/wallhanging/zoomout.jpg","/images/wallhanging/zoom.jpg"],
+        "title": "Handmade Wall Hangings",
+        "description":"🌿Handcrafted Macramé Wall Hangings – Artful Decor with Soul\n\nAdd a touch of warmth, creativity, and bohemian charm to your living space with these handmade macramé wall hangings. Carefully crafted from high-quality cotton yarn and suspended on a natural wooden dowel, each piece resembles a soft, feather-like leaf – bringing a sense of calm and nature indoors. Whether it's your bedroom, living room, or workspace, these vibrant designs infuse your walls with personality and mindful artistry.\n\n✅ Profits & Benefits\n• Handmade with Passion: Skillfully knotted and shaped by local artisans using time-honored macramé techniques.\n• Natural Materials: Made from eco-friendly, biodegradable cotton cords and wooden branches.\n• Colorful & Customizable: Comes in soothing yet bold colors like lavender, black, royal blue, mustard, and more to match any mood or decor.\n• Lightweight & Easy to Hang: Ideal for renters or minimalists who want to decorate without damage or clutter.\n• Calming Vibes: Nature-inspired designs create a grounding, peaceful ambiance in any room.\n\n💚 Why Choose These Wall Hangings?\nBecause your walls deserve art with meaning. These aren’t just decorations — they’re handmade expressions of care, culture, and conscious living. When you buy one, you support local craftsmanship and bring a story into your home that reflects your values: eco-conscious, creative, and uniquely you."
+    },
+    {
+        "id":12,
+        "price":499,
+        "img":["/images/wallhanging/wallhangingfront.jpg","/images/wallhanging/zoomout.jpg","/images/wallhanging/zoom.jpg"],
+        "title": "Handmade Wall Hangings",
+        "description": "Just a Demo Product"
     }
 ]
